@@ -33,7 +33,6 @@ dependencies:
   - plotly
   - pip:
     - git+https://github.com/autorope/keras-vis.git
-    - kivy
     - torchaudio
     - https://github.com/lhelontra/tensorflow-on-arm/releases/download/v2.2.0/tensorflow-2.2.0-cp37-none-linux_aarch64.whl
     - https://github.com/KumaTea/pytorch-aarch64/releases/download/v1.7.1/torch-1.7.1-cp37-cp37m-linux_aarch64.whl
