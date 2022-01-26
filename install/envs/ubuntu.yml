@@ -35,7 +35,7 @@ dependencies:
     - git+https://github.com/autorope/keras-vis.git
     - kivy
     - torchaudio
-    - tensorflow
+    - tensorflow==2.2.0
     - pytourch
     - simple-pid
     - opencv-python-headless
